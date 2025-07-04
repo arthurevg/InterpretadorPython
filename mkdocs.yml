@@ -1,9 +1,8 @@
 site_name: Compiladores
 site_url: https://arthurevg.github.io/InterpretadorPython/
-theme:
-  name: material
 
 theme:
+  name: material
   language: pt-BR
   icon:
     repo: fontawesome/brands/github
@@ -12,12 +11,10 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  name: material
   features:
     - navigation.tabs
     - navigation.tabs.sticky

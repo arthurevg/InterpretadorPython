@@ -176,6 +176,7 @@ Trab_Compiladores/
 | `1.1`  |  27/04/2025 |  Criação da Home do grupo | [Jefferson](https://github.com/Frans6) |
 | `1.2`  |  28/04/2025 |  Atualização da Home no GitPages | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3`  |  27/06/2025 |  Adição do fluxo do sistema e funcionalidades implementadas | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.4`  |  04/07/2025 |  Configuração do repositório remoto e correção do GitPages | [Arthur Evangelista](https://github.com/arthurevg) |
 
 ---
 
