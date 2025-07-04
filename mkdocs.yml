@@ -1,0 +1,48 @@
+site_name: Compiladores
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+
+theme:
+  language: pt-BR
+  icon:
+    repo: fontawesome/brands/github
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      pygments_lang_class: true
+      auto_title: true
+      linenums: true
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+    
+nav:
+  - Início: index.md
+  - Planejamento:
+    - Cronograma: cronograma.md
+    - Metodologia: metodologia.md
+  - Visão Geral:
+    - Explicação do Projeto: explicacao.md
+    - Escopo: escopo.md
+    - Sobre o Projeto: projeto.md
+  - Instalação: instalacao.md
+  - Uso: uso.md
+  - Desenvolvimento: desenvolvimento.md
+  - Testes: testes.md

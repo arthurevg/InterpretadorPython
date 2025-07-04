@@ -1,0 +1,48 @@
+# Executáveis gerados
+interpretador
+test_tabela
+*.exe
+*.out
+*.app
+
+# Arquivos objeto
+*.o
+
+# Diretórios de build
+build/
+dist/
+
+# Arquivos gerados pelo Yacc/Bison
+*.tab.c
+*.tab.h
+y.tab.c
+y.tab.h
+
+# Arquivos gerados pelo Lex/Flex
+lexer.c
+parser.c
+lex.yy.c
+
+# Ambientes virtuais Python
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+*.bak
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
